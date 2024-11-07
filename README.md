@@ -1,0 +1,1 @@
+I am Pramit student of Chandigarh University I created a project of HR analysis using tableau where a HR will be able to analyse each and every employees who are living or joining the company according to rating genders age every data.
